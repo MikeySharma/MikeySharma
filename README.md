@@ -37,8 +37,8 @@ I am a passionate Full-Stack Developer and Cloud DevOps Engineer with a strong f
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/mikeysharma/](https://www.linkedin.com/in/mikey-sharma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- [Twitter]([https://twitter.com/MikeySharma](https://x.com/Mikey__Sharma?t=JhrSF1V3x4roylWWZ_YnEQ&s=09))
+- [LinkedIn](https://www.linkedin.com/in/mikey-sharma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Twitter](https://x.com/Mikey__Sharma?t=JhrSF1V3x4roylWWZ_YnEQ&s=09)
 - [Email](mailto:mikeysharma99@gmail.com)
 
 ## 📊 GitHub Stats
