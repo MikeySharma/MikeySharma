@@ -28,10 +28,6 @@ I am a passionate Full-Stack Developer and Cloud DevOps Engineer with a strong f
 ### State Management
 - **Redux**
 
-### DevOps & Cloud
-- **CI/CD**
-- **Cloud DevOps Engineering**
-
 ### Version Control
 - **Git**
 
@@ -54,8 +50,6 @@ I am a passionate Full-Stack Developer and Cloud DevOps Engineer with a strong f
 ### [Project 1: Emithila E-commerce Web App]([https://github.com/MikeySharma/awesome-web-app](https://github.com/MikeySharma/eMithila-user))
 A full-featured web application built with React and Express, using Node.js for the backend and MongoDB for the database.
 
-### [Project 2: Cool DevOps Setup](Working on client repo, and I don't have permission to show this.)
-A repository showcasing a robust CI/CD pipeline and cloud infrastructure setup.
 
 ### [Project 3: TailwindCSS Components](https://github.com/MikeySharma/Dhanusha_Campus)
 A collection of reusable TailwindCSS components for rapid UI development.
