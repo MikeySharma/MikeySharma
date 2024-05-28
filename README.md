@@ -51,7 +51,7 @@ I am a passionate Full-Stack Developer and Cloud DevOps Engineer with a strong f
 A full-featured web application built with React and Express, using Node.js for the backend and MongoDB for the database.
 
 
-### [Project 3: TailwindCSS Components](https://github.com/MikeySharma/Dhanusha_Campus)
+### [Project 2: TailwindCSS Components](https://github.com/MikeySharma/Dhanusha_Campus)
 A collection of reusable TailwindCSS components for rapid UI development.
 
 
