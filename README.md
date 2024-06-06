@@ -47,12 +47,14 @@ I am a passionate Full-Stack Developer (MERN Stack Developer) with a strong foun
 
 ## 🌟 Projects
 
-### [Project 1: Emithila E-commerce Web App]([https://github.com/MikeySharma/awesome-web-app](https://github.com/MikeySharma/eMithila-user))
+### [Project 1: Emithila E-commerce Web App](https://github.com/MikeySharma/eMithila-user)
 A full-featured web application built with React and Express, using Node.js for the backend and MongoDB for the database.
 
 
-### [Project 2: TailwindCSS Components](https://github.com/MikeySharma/Dhanusha_Campus)
-A collection of reusable TailwindCSS components for rapid UI development.
+### [Project 2: Dashboard Using Nextjs](https://github.com/MikeySharma/next-docs)
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+
 
 
 ## 📫 How to reach me
