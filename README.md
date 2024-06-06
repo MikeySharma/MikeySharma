@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a passionate Full-Stack Developer and Cloud DevOps Engineer with a strong foundation in HTML, CSS, and JavaScript. My expertise spans across various modern web development technologies and practices, allowing me to build scalable, efficient, and user-friendly applications.
+I am a passionate Full-Stack Developer (MERN Stack Developer) with a strong foundation in HTML, CSS, and JavaScript. My expertise spans across various modern web development technologies and practices, allowing me to build scalable, efficient, and user-friendly applications.
 
 ## 🛠️ Technologies & Tools
 
