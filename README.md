@@ -55,7 +55,7 @@ A full-featured web application built with React and Express, using Node.js for 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
 
-### [Project 3: Animated Portfolio]((https://mikey-sharma.vercel.app/app))
+### [Project 3: Animated Portfolio](https://mikey-sharma.vercel.app/app)
 A Responsive Animated Portfolio Web application built with Next 14, GSAP, AOS, SASS, TailwindCSS, for inituitive frontend and eyecatching animation.
 
 
