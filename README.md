@@ -51,9 +51,8 @@ I am a passionate Full-Stack Developer (MERN Stack Developer) with a strong foun
 A full-featured web application built with React and Express, using Node.js for the backend and MongoDB for the database.
 
 
-### [Project 2: Horizon : A Banking 🏦 Platform ](https://github.com/MikeySharma/next-docs)
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
+### [Project 2: Horizon : A Banking 🏦 Platform ](https://github.com/MikeySharma/jsmastery-banking)
+A banking app to secure and track your transactions secured with plaid and dwolla.
 
 ### [Project 3: Animated Portfolio](https://mikey-sharma.vercel.app/app)
 A Responsive Animated Portfolio Web application built with Next 14, GSAP, AOS, SASS, TailwindCSS, for inituitive frontend and eyecatching animation.
