@@ -51,7 +51,7 @@ I am a passionate Full-Stack Developer (MERN Stack Developer) with a strong foun
 A full-featured web application built with React and Express, using Node.js for the backend and MongoDB for the database.
 
 
-### [Project 2: Dashboard Using Nextjs](https://github.com/MikeySharma/next-docs)
+### [Project 2: Horizon : A Banking 🏦 Platform ](https://github.com/MikeySharma/next-docs)
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
 
