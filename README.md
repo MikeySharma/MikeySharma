@@ -4,7 +4,8 @@
 
 ## 🚀 About Me
 
-I am a passionate **Full-Stack Developer** specializing in the **MERN Stack**, with a strong foundation in HTML, CSS, and JavaScript. My expertise spans across modern web technologies, enabling me to build scalable, efficient, and user-friendly applications.
+I am a passionate **Full-Stack Developer** specializing in the **MERN Stack**, with a strong foundation in HTML, CSS, and JavaScript. My expertise spans modern web technologies, enabling me to build scalable, efficient, and user-friendly applications.  
+Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineering**, diving deep into **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and related domains.
 
 ## 🛠️ Technologies & Tools
 
@@ -24,6 +25,12 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN Stack**, w
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### AI/ML
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### State Management
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -50,19 +57,18 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN Stack**, w
 
 ## 🌟 Projects
 
-### [Project 1: Emithila E-commerce Web App](https://github.com/MikeySharma/eMithila-user)
+### [Project 1: Deep Face Detection Model](https://github.com/MikeySharma/machine-learning/blob/main/practices/Deep-Learning/deep-face-detection-model.ipynb)
+A deep face detection model built using **TensorFlow**, **Keras**, **OpenCV**, and **VGG-16**, trained on custom data. This project demonstrates my skills in **Computer Vision** and **Deep Learning**.
+
+### [Project 2: Emithila E-commerce Web App](https://github.com/MikeySharma/eMithila-user)
 A full-featured e-commerce application built with **React** and **Express**, using **Node.js** for the backend and **MongoDB** for the database.
 
-### [Project 2: Horizon : A Banking 🏦 Platform](https://github.com/MikeySharma/jsmastery-banking)
+### [Project 3: Horizon : A Banking 🏦 Platform](https://github.com/MikeySharma/jsmastery-banking)
 A banking app for securing and tracking your transactions, integrated with **Plaid** and **Dwolla**.
 
-### [Project 3: Animated Portfolio](https://mikey-sharma.vercel.app/app)
+### [Project 4: Animated Portfolio](https://mikey-sharma.vercel.app/app)
 A responsive animated portfolio built with **Next 14**, **GSAP**, **AOS**, **SASS**, and **TailwindCSS** for intuitive frontend and eye-catching animations.
 
 ## 📫 How to reach me
 
 Feel free to reach out if you have any questions or just want to connect!
-
----
-
-*This README.md was generated using GitHub profile README generator.*
