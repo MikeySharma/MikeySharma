@@ -48,7 +48,6 @@ Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineerin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikeySharma&show_icons=true&theme=radical" alt="Mikey's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikeySharma&theme=radical" alt="GitHub Streak" height="165" />
 </p>
 
 ## 🔥 Top Languages
