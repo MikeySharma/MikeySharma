@@ -55,7 +55,7 @@ Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineerin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeySharma&layout=compact&theme=radical)
 
 ## 🌟 Projects
-### [Project 1: Mithila Art Classification Model](https://github.com/MikeySharma/machine-learning/blob/main/practices/Deep-Learning/mithila-art-classification-model.ipynb)
+### [Project 1: Mithila Art Classification Model](https://github.com/MikeySharma/Art-Of-Mithila)
 A deep learning-based art classification model built using **TensorFlow**, **Keras**, **OpenCV**, and **VGG-16**, trained on a custom dataset of Mithila art images. This project demonstrates my skills in **Computer Vision**, **Deep Learning**, and **Art Classification**. The model classifies various categories of Mithila art, and it has been deployed on a live website to offer real-time predictions. The project showcases expertise in fine-tuning pre-trained models, data augmentation, model evaluation, and cloud deployment.
 
 ### [Project 2: Deep Face Detection Model](https://github.com/MikeySharma/machine-learning/blob/main/practices/Deep-Learning/deep-face-detection-model.ipynb)
