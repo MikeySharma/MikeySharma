@@ -55,18 +55,17 @@ Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineerin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeySharma&layout=compact&theme=radical)
 
 ## 🌟 Projects
+### [Project 1: Mithila Art Classification Model](https://github.com/MikeySharma/machine-learning/blob/main/practices/Deep-Learning/mithila-art-classification-model.ipynb)
+A deep learning-based art classification model built using **TensorFlow**, **Keras**, **OpenCV**, and **VGG-16**, trained on a custom dataset of Mithila art images. This project demonstrates my skills in **Computer Vision**, **Deep Learning**, and **Art Classification**. The model classifies various categories of Mithila art, and it has been deployed on a live website to offer real-time predictions. The project showcases expertise in fine-tuning pre-trained models, data augmentation, model evaluation, and cloud deployment.
 
-### [Project 1: Deep Face Detection Model](https://github.com/MikeySharma/machine-learning/blob/main/practices/Deep-Learning/deep-face-detection-model.ipynb)
+### [Project 2: Deep Face Detection Model](https://github.com/MikeySharma/machine-learning/blob/main/practices/Deep-Learning/deep-face-detection-model.ipynb)
 A deep face detection model built using **TensorFlow**, **Keras**, **OpenCV**, and **VGG-16**, trained on custom data. This project demonstrates my skills in **Computer Vision** and **Deep Learning**.
 
-### [Project 2: Emithila E-commerce Web App](https://github.com/MikeySharma/eMithila-user)
+### [Project 3: Emithila E-commerce Web App](https://github.com/MikeySharma/eMithila-user)
 A full-featured e-commerce application built with **React** and **Express**, using **Node.js** for the backend and **MongoDB** for the database.
 
-### [Project 3: Horizon : A Banking 🏦 Platform](https://github.com/MikeySharma/jsmastery-banking)
+### [Project 4: Horizon : A Banking 🏦 Platform](https://github.com/MikeySharma/jsmastery-banking)
 A banking app for securing and tracking your transactions, integrated with **Plaid** and **Dwolla**.
-
-### [Project 4: Animated Portfolio](https://mikey-sharma.vercel.app/app)
-A responsive animated portfolio built with **Next 14**, **GSAP**, **AOS**, **SASS**, and **TailwindCSS** for intuitive frontend and eye-catching animations.
 
 ## 📫 How to reach me
 
