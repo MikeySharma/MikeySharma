@@ -7,6 +7,8 @@
 I am a passionate **Full-Stack Developer** specializing in the **MERN Stack**, with a strong foundation in HTML, CSS, and JavaScript. My expertise spans modern web technologies, enabling me to build scalable, efficient, and user-friendly applications.  
 Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineering**, diving deep into **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and related domains.
 
+---
+
 ## 🛠️ Technologies & Tools
 
 ### Frontend
@@ -38,23 +40,28 @@ Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineerin
 ### Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikey-sharma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Mikey__Sharma?t=JhrSF1V3x4roylWWZ_YnEQ&s=09) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mikeysharma99@gmail.com)
+---
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikeySharma&show_icons=true&theme=radical" alt="Mikey's GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=MikeySharma&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Mikey's GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeySharma&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
-## 🔥 Top Languages
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeySharma&layout=compact&theme=radical)
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MikeySharma&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
 
 ## 🌟 Projects
+
 ### [Project 1: Mithila Art Classification Model](https://github.com/MikeySharma/Art-Of-Mithila)
 A deep learning-based art classification model built using **TensorFlow**, **Keras**, **OpenCV**, and **VGG-16**, trained on a custom dataset of Mithila art images. This project demonstrates my skills in **Computer Vision**, **Deep Learning**, and **Art Classification**. The model classifies various categories of Mithila art, and it has been deployed on a live website to offer real-time predictions. The project showcases expertise in fine-tuning pre-trained models, data augmentation, model evaluation, and cloud deployment.
 
@@ -67,6 +74,12 @@ A full-featured e-commerce application built with **React** and **Express**, usi
 ### [Project 4: Horizon : A Banking 🏦 Platform](https://github.com/MikeySharma/jsmastery-banking)
 A banking app for securing and tracking your transactions, integrated with **Plaid** and **Dwolla**.
 
+---
+
 ## 📫 How to reach me
 
-Feel free to reach out if you have any questions or just want to connect!
+Feel free to reach out if you have any questions or just want to connect!  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikey-sharma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Mikey__Sharma?t=JhrSF1V3x4roylWWZ_YnEQ&s=09) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mikeysharma99@gmail.com)
