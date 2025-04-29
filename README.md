@@ -64,14 +64,6 @@ Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineerin
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MikeySharma&theme=radical&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🌟 Projects
 
 ### [Project 1: Mithila Art Classification Model](https://github.com/MikeySharma/Art-Of-Mithila)
