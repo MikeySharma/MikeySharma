@@ -53,13 +53,6 @@ Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineerin
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-
-### State Management
-<p align="center">
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
-</p>
-
 ### Version Control
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -67,6 +60,16 @@ Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineerin
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /> 
 </p>
 
+### State Management
+<p align="center">
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
+</p>
+
+### CI/CD
+<p align="center">
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 ---
 
 ## 📈 GitHub Stats
