@@ -54,11 +54,14 @@ Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineerin
 ### State Management
 <p align="center">
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
 </p>
 
 ### Version Control
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /> 
 </p>
 
 ---
