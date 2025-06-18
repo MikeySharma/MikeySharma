@@ -71,6 +71,8 @@ Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineerin
   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
