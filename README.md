@@ -97,6 +97,10 @@ A full-featured e-commerce application built with **React** and **Express**, usi
 ### [Project 4: Horizon : A Banking 🏦 Platform](https://github.com/MikeySharma/jsmastery-banking)
 A banking app for securing and tracking your transactions, integrated with **Plaid** and **Dwolla**.
 
+### [Project 5: KaamSathi – AI Powered App](https://github.com/MikeySharma/kaamsathi-ai-powered-app)
+
+An **AI-powered web application** designed to connect users with skilled workers efficiently. This project integrates **AI/ML models** with a **MERN Stack architecture**, providing intelligent recommendations, smooth user interactions, and a scalable backend.
+
 ---
 
 ## 📫 How to reach me
