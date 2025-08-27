@@ -84,22 +84,21 @@ Additionally, I have recently completed a **3-month bootcamp in AI/ML Engineerin
 ---
 
 ## 🌟 Projects
-
-### [Project 1: Mithila Art Classification Model](https://github.com/MikeySharma/Art-Of-Mithila)
-A deep learning-based art classification model built using **TensorFlow**, **Keras**, **OpenCV**, and **VGG-16**, trained on a custom dataset of Mithila art images. This project demonstrates my skills in **Computer Vision**, **Deep Learning**, and **Art Classification**.
-
-### [Project 2: Deep Face Detection Model](https://github.com/MikeySharma/machine-learning/blob/main/practices/Deep-Learning/deep-face-detection-model.ipynb)
-A deep face detection model built using **TensorFlow**, **Keras**, **OpenCV**, and **VGG-16**, trained on custom data. This project demonstrates my skills in **Computer Vision** and **Deep Learning**.
-
-### [Project 3: Emithila E-commerce Web App](https://github.com/MikeySharma/eMithila-user)
-A full-featured e-commerce application built with **React** and **Express**, using **Node.js** for the backend and **MongoDB** for the database.
-
-### [Project 4: Horizon : A Banking 🏦 Platform](https://github.com/MikeySharma/jsmastery-banking)
-A banking app for securing and tracking your transactions, integrated with **Plaid** and **Dwolla**.
-
-### [Project 5: KaamSathi – AI Powered App](https://github.com/MikeySharma/kaamsathi-ai-powered-app)
+### [Project 1: KaamSathi – AI Powered App](https://github.com/MikeySharma/kaamsathi-ai-powered-app)
 
 An **AI-powered web application** designed to connect users with skilled workers efficiently. This project integrates **AI/ML models** with a **MERN Stack architecture**, providing intelligent recommendations, smooth user interactions, and a scalable backend.
+
+### [Project 2: Mithila Art Classification Model](https://github.com/MikeySharma/Art-Of-Mithila)
+A deep learning-based art classification model built using **TensorFlow**, **Keras**, **OpenCV**, and **VGG-16**, trained on a custom dataset of Mithila art images. This project demonstrates my skills in **Computer Vision**, **Deep Learning**, and **Art Classification**.
+
+### [Project 3: Deep Face Detection Model](https://github.com/MikeySharma/machine-learning/blob/main/practices/Deep-Learning/deep-face-detection-model.ipynb)
+A deep face detection model built using **TensorFlow**, **Keras**, **OpenCV**, and **VGG-16**, trained on custom data. This project demonstrates my skills in **Computer Vision** and **Deep Learning**.
+
+### [Project 4: Emithila E-commerce Web App](https://github.com/MikeySharma/eMithila-user)
+A full-featured e-commerce application built with **React** and **Express**, using **Node.js** for the backend and **MongoDB** for the database.
+
+### [Project 5: Horizon : A Banking 🏦 Platform](https://github.com/MikeySharma/jsmastery-banking)
+A banking app for securing and tracking your transactions, integrated with **Plaid** and **Dwolla**.
 
 ---
 
