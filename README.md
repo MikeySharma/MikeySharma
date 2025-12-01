@@ -1,7 +1,5 @@
 # Hello, I'm Mikey Sharma! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=MikeySharma&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/MikeySharma?style=social) ![GitHub Stars](https://img.shields.io/github/stars/MikeySharma?style=social)
-
 ## 🚀 About Me
 
 I'm Mikey Sharma, a **Software Engineer & AI/ML Specialist** with over a year of experience leading development on **Danfe**, an AI-powered financial platform at Neelgai Technologies. I specialize in building dynamic, scalable, and user-centric web applications with advanced AI integrations. My expertise spans full-stack development, AI/ML engineering, and creating intelligent solutions that bridge the gap between cutting-edge technology and practical business applications.
@@ -83,16 +81,6 @@ I'm Mikey Sharma, a **Software Engineer & AI/ML Specialist** with over a year of
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikeySharma&show_icons=true&theme=radical" alt="Mikey's GitHub Stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MikeySharma&theme=radical" alt="Top Languages by Repo" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MikeySharma&theme=radical" alt="Top Languages by Commit" height="165" />
 </p>
 
 ---
