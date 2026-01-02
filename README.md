@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm Mikey Sharma, a **Software Engineer & AI/ML Specialist** with over a year of experience leading development on **Danfe**, an AI-powered financial platform at Neelgai Technologies. I specialize in building dynamic, scalable, and user-centric web applications with advanced AI integrations. My expertise spans full-stack development, AI/ML engineering, and creating intelligent solutions that bridge the gap between cutting-edge technology and practical business applications.
+I'm Mikey Sharma, a **Software Engineer & AI/ML Specialist** with over 2 years of experience leading development on **Danfe**, an AI-powered financial platform at Neelgai Technologies. I specialize in building dynamic, scalable, and user-centric web applications with advanced AI integrations. My expertise spans full-stack development, AI/ML engineering, and creating intelligent solutions that bridge the gap between cutting-edge technology and practical business applications.
 
 🌐 **Portfolio**: [mikeysharma.com](https://www.mikeysharma.com) | 📧 **Email**: mikeysharma99@gmail.com | 📍 **Location**: Kathmandu, Nepal
 
