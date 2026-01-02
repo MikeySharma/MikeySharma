@@ -134,7 +134,7 @@ A modern, interactive landing page featuring advanced CSS animations, smooth tra
 ## 💼 Professional Experience
 
 ### 🏢 **Software Engineer & AI/ML Specialist** | *Neelgai Technologies*
-**Nov 2023 - Present** | *Remote*
+**Nov 2024 - Present** | *Remote*
 
 - Leading development on **Danfe**, an AI-powered financial platform serving users with intelligent investment insights
 - Built AI agents, chatbots, and seamless AI integrations across the full stack
@@ -142,7 +142,7 @@ A modern, interactive landing page featuring advanced CSS animations, smooth tra
 - Spearheaded AI initiatives including data science workflows and natural language processing
 
 ### 🏢 **Software Engineer** | *Otto Van Koppen*
-**Nov 2022 - May 2023** | *Remote (Spain)*
+**Nov 2023 - May 2024** | *Remote (Spain)*
 
 - Developed responsive web applications with React.js and Next.js
 - Built robust server-side applications using Node.js and Express.js
