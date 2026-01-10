@@ -121,14 +121,6 @@ A comprehensive banking application featuring secure transaction management, rea
 A comprehensive e-commerce platform with advanced product catalog, intelligent shopping cart, secure authentication, and complete order management system. Includes both user-facing application and admin dashboard.
 
 **Tech Stack**: React.js, Node.js, Express, MongoDB, TailwindCSS, Redux, Stripe, JWT
-
-### 🎓 [Dhanusha Campus - Interactive Educational Landing Page](https://dhanusha-campus.vercel.app/)
-**Frontend Developer** | *Personal Project*
-
-A modern, interactive landing page featuring advanced CSS animations, smooth transitions, and engaging user interactions. Built with React, Framer Motion, and GSAP for stunning visual effects.
-
-**Tech Stack**: React.js, TailwindCSS, Framer Motion, GSAP, CSS3, Responsive Design, Parallax
-
 ---
 
 ## 💼 Professional Experience
