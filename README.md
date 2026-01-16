@@ -153,6 +153,7 @@ Currently pursuing a Bachelor of Science with strong emphasis on software archit
 
 ### Higher Secondary Education – Computer Science
 Dhanusha Science Campus
+
 2023 - 2025
 
 ---
