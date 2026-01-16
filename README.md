@@ -151,9 +151,10 @@ University of Bedfordshire
 
 Currently pursuing a Bachelor of Science with strong emphasis on software architecture, algorithms, data structures, system design, and applied engineering.
 
-### Higher Secondary Education – Computer Science  
-Dhanusha Science Campus  
-2023 – 2025
+### Higher Secondary Education – Computer Science
+Dhanusha Science Campus
+2023 - 2025
+
 ---
 
 ## 📫 Let's Connect!
