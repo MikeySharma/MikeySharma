@@ -145,9 +145,15 @@ A comprehensive e-commerce platform with advanced product catalog, intelligent s
 
 ## 🎓 Education
 
-**Higher Secondary Education | Computer Science** | *Dhanusha Science Campus*  
-*May 2023 - May 2025*
+### BSc (Hons) in Software Engineering  
+University of Bedfordshire  
+2026 – Present
 
+Currently pursuing a Bachelor of Science with strong emphasis on software architecture, algorithms, data structures, system design, and applied engineering.
+
+### Higher Secondary Education – Computer Science  
+Dhanusha Science Campus  
+2023 – 2025
 ---
 
 ## 📫 Let's Connect!
