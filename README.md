@@ -123,6 +123,7 @@ A comprehensive e-commerce platform with advanced product catalog, intelligent s
 **Tech Stack**: React.js, Node.js, Express, MongoDB, TailwindCSS, Redux, Stripe, JWT
 
 ---
+
 ## 💼 Professional Experience
 
 ### 🏢 **Software Engineer (SE)** | *Neelgai Technologies*
@@ -133,8 +134,6 @@ A comprehensive e-commerce platform with advanced product catalog, intelligent s
 * Built AI-driven data pipelines for large-scale content intelligence and search
 * Architected SEO-focused AI applications and scalable backend systems
 
----
-
 ### 🏢 **Software Engineer (SE)** | *Danfe.ai*
 
 **Nov 2024 – Present** | *Nepal | Remote*
@@ -142,8 +141,6 @@ A comprehensive e-commerce platform with advanced product catalog, intelligent s
 * Leading development of Danfe, an AI-powered financial intelligence platform
 * Designed and implemented AI/ML systems for financial data analysis
 * Built intelligent agents and machine learning pipelines for market insights
-
----
 
 ### 🏢 **Software Engineer (SE)** | *Upwork (Freelance)*
 
