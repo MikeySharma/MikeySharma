@@ -121,6 +121,7 @@ A comprehensive banking application featuring secure transaction management, rea
 A comprehensive e-commerce platform with advanced product catalog, intelligent shopping cart, secure authentication, and complete order management system. Includes both user-facing application and admin dashboard.
 
 **Tech Stack**: React.js, Node.js, Express, MongoDB, TailwindCSS, Redux, Stripe, JWT
+
 ---
 ## 💼 Professional Experience
 
