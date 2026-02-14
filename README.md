@@ -122,24 +122,38 @@ A comprehensive e-commerce platform with advanced product catalog, intelligent s
 
 **Tech Stack**: React.js, Node.js, Express, MongoDB, TailwindCSS, Redux, Stripe, JWT
 ---
-
 ## 💼 Professional Experience
 
-### 🏢 **Software Engineer & AI/ML Specialist** | *Neelgai Technologies*
-**Nov 2024 - Present** | *Remote*
+### 🏢 **Software Engineer (SE)** | *Neelgai Technologies*
 
-- Leading development on **Danfe**, an AI-powered financial platform serving users with intelligent investment insights
-- Built AI agents, chatbots, and seamless AI integrations across the full stack
-- Implemented sentiment analysis, machine learning models, and advanced analytics
-- Spearheaded AI initiatives including data science workflows and natural language processing
+**Nov 2024 – Present** | *Nepal | Remote*
 
-### 🏢 **Software Engineer** | *Otto Van Koppen*
-**Nov 2023 - May 2024** | *Remote (Spain)*
+* Led development of advanced Retrieval-Augmented Generation (RAG) systems
+* Built AI-driven data pipelines for large-scale content intelligence and search
+* Architected SEO-focused AI applications and scalable backend systems
 
-- Developed responsive web applications with React.js and Next.js
-- Built robust server-side applications using Node.js and Express.js
-- Deployed applications on Ubuntu Nginx servers and integrated CI/CD pipelines
-- Set up mail servers from scratch and managed VPS infrastructure
+---
+
+### 🏢 **Software Engineer (SE)** | *Danfe.ai*
+
+**Nov 2024 – Present** | *Nepal | Remote*
+
+* Leading development of Danfe, an AI-powered financial intelligence platform
+* Designed and implemented AI/ML systems for financial data analysis
+* Built intelligent agents and machine learning pipelines for market insights
+
+---
+
+### 🏢 **Software Engineer (SE)** | *Upwork (Freelance)*
+
+**Nov 2023 – Oct 2024** | *Remote*
+
+* Delivered multiple client projects, including leading development for Otto Van Koppen (Spain)
+* Developed responsive web applications using React.js and Next.js
+* Built backend systems with Node.js and Express.js
+* Deployed applications on Ubuntu Nginx servers with CI/CD pipelines
+* Managed VPS infrastructure and mail server setup
+* Collaborated with international clients on custom software solutions
 
 ---
 
