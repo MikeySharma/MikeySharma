@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <linearGradient id="hg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#hg)"/>
+  <path d="M0,160 C150,100 300,180 450,140 C600,100 750,160 900,120 L900,200 L0,200 Z" fill="#0d0d1a" opacity="0.5"/>
+  <text x="450" y="95" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="2">Mikey Sharma</text>
+  <text x="450" y="135" font-family="Georgia, serif" font-size="18" fill="#a78bfa" text-anchor="middle" letter-spacing="1">Software Engineer &amp; AI/ML Specialist</text>
+</svg>
