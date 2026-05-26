@@ -14,9 +14,6 @@
 </div>
 
 ---
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=MikeySharma&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&count_private=true" />
-
 ### `whoami`
 
 ```python
