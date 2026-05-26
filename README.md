@@ -96,16 +96,6 @@ class MikeySharma:
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeySharma&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=MikeySharma&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
-
-</div>
 
 ---
 
