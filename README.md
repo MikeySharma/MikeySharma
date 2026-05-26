@@ -54,17 +54,23 @@ I'm Mikey Sharma, a **Software Engineer & AI/ML Specialist** with over 2 years o
 ### 🤖 AI/ML & Agentic Workflows
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-AI/ML%20Specialist-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="AI/ML Specialist" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/-LangSmith-FFB13B?style=for-the-badge&logo=airtable&logoColor=white" alt="LangSmith" />
   <img src="https://img.shields.io/badge/-LangGraph-2B2D42?style=for-the-badge&logo=graph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/-Agentic%20Chatbot-4A90E2?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agentic Chatbot" />
+  <img src="https://img.shields.io/badge/-Agentic%20AI-4A90E2?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/-RAG-7B61FF?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/-Vector%20Databases-009688?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector Databases" />
+  <img src="https://img.shields.io/badge/-Embeddings-673AB7?style=for-the-badge&logo=openai&logoColor=white" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/-Semantic%20Search-3F51B5?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Semantic Search" />
+  <img src="https://img.shields.io/badge/-Web%20Scraping-4CAF50?style=for-the-badge&logo=scrapy&logoColor=white" alt="Web Scraping" />
+  <img src="https://img.shields.io/badge/-Data%20Pipelines-607D8B?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
+  <img src="https://img.shields.io/badge/-LLM%20Fine--Tuning-E91E63?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM Fine-Tuning" />
+  <img src="https://img.shields.io/badge/-Prompt%20Engineering-795548?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/-n8n-0D99FF?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
-
 ### ☁️ DevOps & Cloud
 
 <p align="center">
@@ -174,11 +180,10 @@ Dhanusha Science Campus
 
 I'm always open to discussing new opportunities, collaborations, or just having a chat about technology and AI!
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mikeysharma.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikey-sharma)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@mikeysharma.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mikey__Sharma)
-
+[Portfolio](https://www.mikeysharma.com)  
+[LinkedIn](https://www.linkedin.com/in/mikey-sharma)  
+[Email](mailto:support@mikeysharma.com)  
+[Twitter](https://x.com/Mikey__Sharma)
 ---
 
 *"Building the future with AI-powered solutions, one line of code at a time."* 🚀
