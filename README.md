@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Mikey Sharma — Software Engineer & AI/ML Specialist"/>
+<img src="./header.svg" width="100%" alt="Mikey Sharma — Software Engineer & AI/ML Specialist" />
 
-</div>
+# Mikey Sharma
 
-<div align="center">
+### Software Engineer • Data Infrastructure • AI Systems • SEO Architecture
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mikeysharma.com-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mikeysharma.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mikey--sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikey-sharma)
@@ -14,79 +14,145 @@
 </div>
 
 ---
-### `whoami`
+
+# `whoami`
 
 ```python
 class MikeySharma:
-    role       = "Software Engineer & AI/ML Specialist"
+    role       = "Software Engineer & Data/ML Infrastructure"
     location   = "Kathmandu, Nepal"
-    company    = "Neelgai Technologies / Danfe.ai"
-    focus      = ["ETL Pipelines", "RAG Systems",
-                  "Agentic Workflows", "Full-Stack"]
-    education  = "BSc (Hons) Software Engineering"
-                  # University of Bedfordshire
-    languages  = ["English", "Nepali", "Hindi", "Maithili"]
-    available  = True  # open to collaborations
 
+    company    = [
+        "Neelgai Technologies",
+        "Danfe.ai"
+    ]
+
+    focus = [
+        "Data Engineering",
+        "SEO Infrastructure",
+        "ETL Pipelines",
+        "RAG Systems",
+        "System Architecture"
+    ]
+
+    education  = "BSc (Hons) Software Engineering"
+    university = "University of Bedfordshire"
+
+    languages  = [
+        "English",
+        "Nepali",
+        "Hindi",
+        "Maithili"
+    ]
+
+    available_for_collaboration = True
 ```
 
 ---
 
-## Current Work
+# Current Work
 
-> Building AI infrastructure and financial intelligence systems at **[Danfe.ai](https://danfe.ai)** — an AI-powered platform that transforms how users interact with financial markets.
+> Scaling real-time data systems and AI-powered intelligence infrastructure at **Neelgai Technologies** and **Danfe.ai**.
 
-* Architecting **ETL pipelines** for financial data ingestion, transformation, and delivery at scale
-* Engineering **RAG systems** and AI-driven data pipelines for large-scale content intelligence and search
-* Leading **frontend and backend** development — real-time market data, heatmap visualizations, AI trading recommendation interfaces
-* Designing scalable backend infrastructure and SEO-focused AI applications
+- ⚙️ Engineering high-throughput, fault-tolerant **ETL pipelines** for financial market intelligence and large-scale analytical processing.
+- 🔍 Building **SEO-driven architectures** and production-ready **RAG systems** for deep information retrieval and semantic intelligence extraction.
+- 🛠️ Developing scalable backend systems, interactive frontend visualizations, and secure API infrastructures optimized for performance.
+
+---
+# Tech Stack
+
+## Languages & Core Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,go,rust,bash" />
+
+</div>
 
 ---
 
-## Tech Stack
+## Frontend Engineering
 
-### Languages
+<div align="center">
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,figma" />
 
-### Backend
-
-### Databases
-
-### AI / ML
-
-### DevOps and Cloud
+</div>
 
 ---
 
-## Featured Projects
+## Backend & Data Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,firebase,supabase" />
+
+</div>
+
+---
+
+## AI & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,aws,linux,nginx,git,githubactions" />
+
+</div>
+
+---
+
+# Featured Projects
 
 | Project | Description | Stack |
-| --- | --- | --- |
-| **[Danfe.ai](https://danfe.ai)** | AI-powered financial intelligence platform — heatmaps, NLP sentiment analysis, portfolio management, AI trading recommendations | `Next.js` `TypeScript` `TensorFlow` `PostgreSQL` `AWS` |
-| **[KaamSathi](https://github.com/MikeySharma/kaamsathi-ai-powered-app)** | AI career platform — resume builder, interview prep, skill assessment, personalized learning paths | `Next.js 15` `TypeScript` `Google Gemini` `Tavily API` |
-| **[Art of Mithila](https://github.com/MikeySharma/Art-Of-Mithila)** | Deep learning classifier for traditional Nepali art using VGG16 transfer learning | `TensorFlow` `Keras` `VGG16` `Django` |
-| **[Horizon Banking](https://mikey-banking.vercel.app)** | Full-featured banking app with real-time payments, Plaid and Dwolla integration | `Next.js` `TypeScript` `Appwrite` `Plaid` `Dwolla` |
-| **[eMithila](https://emithila.netlify.app/)** | End-to-end e-commerce solution with cart, auth, order management, admin dashboard | `React.js` `Node.js` `MongoDB` `Redux` `Stripe` |
+|---|---|---|
+| **[Danfe.ai](https://danfe.ai)** | AI-powered financial intelligence platform with market heatmaps, NLP sentiment analysis, AI portfolio insights, and trading intelligence systems. | `Next.js` `TypeScript` `TensorFlow` `PostgreSQL` `AWS` |
+| **[KaamSathi](https://github.com/MikeySharma/kaamsathi-ai-powered-app)** | AI-driven career platform featuring resume generation, interview preparation, skill assessments, and adaptive learning systems. | `Next.js 15` `TypeScript` `Google Gemini` `Tavily API` |
+| **[Art of Mithila](https://github.com/MikeySharma/Art-Of-Mithila)** | Deep learning image classification system for traditional Nepali art using transfer learning with VGG16. | `TensorFlow` `Keras` `VGG16` `Django` |
+| **[Horizon Banking](https://mikey-banking.vercel.app)** | Modern banking platform with real-time payment systems, Plaid integration, and financial account management. | `Next.js` `TypeScript` `Appwrite` `Plaid` `Dwolla` |
+| **[eMithila](https://emithila.netlify.app/)** | Full-scale e-commerce platform with authentication, cart systems, order workflows, and admin analytics dashboards. | `React.js` `Node.js` `MongoDB` `Redux` `Stripe` |
 
 ---
 
-## Professional Experience
+# Professional Experience
 
-| Timeline | Role | Organization | Core Focus & Contributions |
-| --- | --- | --- | --- |
-| **2024 – Present** | **Software Engineer** | Neelgai Technologies / Danfe.ai | Architecting ETL pipelines, developing robust RAG systems, and leading full-stack implementations for real-time AI-driven financial intelligence platforms. |
-| **2023 – 2024** | **Software Engineer (Freelance)** | Upwork | Deployed scalable backend infrastructure for European clients, specialized in Nginx configuration, CI/CD pipeline optimization, and custom mail server hosting. |
-
----
-
-## Education History
-
-| Timeline | Degree / Certification | Institution | Details |
-| --- | --- | --- | --- |
-| **2026 – Present** | **BSc (Hons) Software Engineering** | University of Bedfordshire | Focus on advanced system design, database architectures, and distributed engineering paradigms. |
-| **2023 – 2025** | **Higher Secondary (Computer Science)** | Dhanusha Science Campus | Foundational engineering blocks covering algorithmic problem solving and discrete math structures. |
+| Timeline | Role | Organization | Contributions |
+|---|---|---|---|
+| **2024 — Present** | **Software Engineer** | **Neelgai Technologies / Danfe.ai** | Architecting financial ETL systems, deploying scalable SEO infrastructures, engineering RAG pipelines, and optimizing production-grade backend systems. |
+| **2023 — 2024** | **Software Engineer (Freelance)** | **Upwork** | Managed production Linux servers across Europe, optimized Nginx infrastructures, developed secure mail systems, and automated CI/CD deployment pipelines. |
 
 ---
 
-### Let's Build Something
+# Education
+
+| Timeline | Degree | Institution | Focus |
+|---|---|---|---|
+| **2026 — Present** | **BSc (Hons) Software Engineering** | **University of Bedfordshire** | Distributed systems, scalable architectures, microservices, and database engineering. |
+| **2023 — 2025** | **Higher Secondary — Computer Science** | **Dhanusha Science Campus** | Algorithms, object-oriented programming, and discrete computational structures. |
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MikeySharma&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# Philosophy
+
+```txt
+Build systems that scale.
+Engineer software that survives.
+Design infrastructure that performs.
+```
+
+---
+
+<div align="center">
+
+### "Code is temporary. Architecture compounds."
+
+</div>
