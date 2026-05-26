@@ -1,189 +1,104 @@
-# Hello, I'm Mikey Sharma! 👋
+# Mikey Sharma
 
-## 🚀 About Me
+**Software Engineer & AI/ML Specialist** — Kathmandu, Nepal
 
-I'm Mikey Sharma, a **Software Engineer & AI/ML Specialist** with over 2 years of experience leading development on **Danfe**, an AI-powered financial platform at Neelgai Technologies. I specialize in building dynamic, scalable, and user-centric web applications with advanced AI integrations. My expertise spans full-stack development, AI/ML engineering, and creating intelligent solutions that bridge the gap between cutting-edge technology and practical business applications.
+Building intelligent systems at the intersection of full-stack engineering and applied AI. Currently leading development at [Danfe.ai](https://danfe.ai), an AI-powered financial intelligence platform.
 
-🌐 **Portfolio**: [mikeysharma.com](https://www.mikeysharma.com) | 📧 **Email**: support@mikeysharma.com | 📍 **Location**: Kathmandu, Nepal
-
----
-## 🛠️ Technologies & Tools
-
-### 💻 Programming & Scripting
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### ⚡ Frontend Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/-Remix.js-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix.js" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/-Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-### 🤖 AI/ML & Agentic Workflows
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/-LangSmith-FFB13B?style=for-the-badge&logo=airtable&logoColor=white" alt="LangSmith" />
-  <img src="https://img.shields.io/badge/-LangGraph-2B2D42?style=for-the-badge&logo=graph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/-Agentic%20AI-4A90E2?style=for-the-badge&logo=robotframework&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/-RAG-7B61FF?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/-Vector%20Databases-009688?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector Databases" />
-  <img src="https://img.shields.io/badge/-Embeddings-673AB7?style=for-the-badge&logo=openai&logoColor=white" alt="Embeddings" />
-  <img src="https://img.shields.io/badge/-Semantic%20Search-3F51B5?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Semantic Search" />
-  <img src="https://img.shields.io/badge/-Web%20Scraping-4CAF50?style=for-the-badge&logo=scrapy&logoColor=white" alt="Web Scraping" />
-  <img src="https://img.shields.io/badge/-Data%20Pipelines-607D8B?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
-  <img src="https://img.shields.io/badge/-LLM%20Fine--Tuning-E91E63?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM Fine-Tuning" />
-  <img src="https://img.shields.io/badge/-Prompt%20Engineering-795548?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/-n8n-0D99FF?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</p>
-### ☁️ DevOps & Cloud
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/-Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### 🔧 Tools & Version Control
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+[mikeysharma.com](https://www.mikeysharma.com) · [LinkedIn](https://www.linkedin.com/in/mikey-sharma) · [Twitter](https://x.com/Mikey__Sharma) · [support@mikeysharma.com](mailto:support@mikeysharma.com)
 
 ---
 
-## 🌟 Featured Projects
+## About
 
-### 🚀 [Danfe - AI-Powered Financial Intelligence Platform](https://danfe.ai)
-**Lead Software Engineer & AI/ML Specialist** | *Nov 2023 - Present* | *Neelgai Technologies*
-
-A comprehensive financial technology platform combining AI, machine learning, and real-time market data to provide intelligent investment insights. Features advanced heatmap visualizations, sentiment analysis, portfolio management, and AI-driven trading recommendations.
-
-**Tech Stack**: React, Next.js, Node.js, TypeScript, AI/ML, TensorFlow, PostgreSQL, AWS, Sentiment Analysis, NLP
-
-### 💼 [KaamSathi - AI-Powered Career Development Platform](https://github.com/MikeySharma/kaamsathi-ai-powered-app)
-**Full-Stack Developer & AI Integration Specialist** | *Personal Project*
-
-A comprehensive career development platform featuring AI-powered tools for job seekers, including resume building, interview preparation, skill assessment, and personalized learning recommendations. Integrated with Google Gemini AI and Tavily API.
-
-**Tech Stack**: Next.js 15, Node.js, TypeScript, PostgreSQL, TypeORM, TailwindCSS, Google Gemini, Tavily API, JWT
-
-### 🎨 [Art of Mithila - AI-Powered Cultural Heritage Classifier](https://github.com/MikeySharma/Art-Of-Mithila)
-**Full-Stack Developer & AI/ML Engineer** | *Personal Project*
-
-An innovative web application leveraging deep learning and computer vision to classify traditional Nepali art forms. Built with custom-trained VGG16 transfer learning model achieving high accuracy in art classification.
-
-**Tech Stack**: TensorFlow, Keras, VGG16, Next.js, Django, Python, Cloudinary, Computer Vision, Transfer Learning
-
-### 🏦 [Horizon Banking - Modern Financial Management Platform](https://mikey-banking.vercel.app)
-**Full-Stack Developer** | *Personal Project*
-
-A comprehensive banking application featuring secure transaction management, real-time payment processing, and advanced user account management. Integrates with Plaid and Dwolla APIs for seamless financial services.
-
-**Tech Stack**: Next.js, TypeScript, Appwrite, Plaid, Dwolla, Shadcn UI, TailwindCSS, Prisma, PostgreSQL
-
-### 🛒 [eMithila - Complete E-Commerce Solution](https://emithila.netlify.app/)
-**Full-Stack Developer** | *Personal Project*
-
-A comprehensive e-commerce platform with advanced product catalog, intelligent shopping cart, secure authentication, and complete order management system. Includes both user-facing application and admin dashboard.
-
-**Tech Stack**: React.js, Node.js, Express, MongoDB, TailwindCSS, Redux, Stripe, JWT
+I specialize in building scalable web applications and AI-driven systems that solve real-world problems. My work spans full-stack development, RAG pipelines, agentic workflows, and LLM integrations — with a focus on shipping products that are both technically robust and genuinely useful.
 
 ---
 
-## 💼 Professional Experience
+## Tech Stack
 
-### 🏢 **Software Engineer (SE)** | *Neelgai Technologies*
+**Languages** — Python, TypeScript, JavaScript, C, HTML/CSS
 
-**Nov 2024 – Present** | *Nepal | Remote*
+**Frontend** — React, Next.js, Vue, Nuxt, Remix, Tailwind CSS, Redux
 
-* Led development of advanced Retrieval-Augmented Generation (RAG) systems
-* Built AI-driven data pipelines for large-scale content intelligence and search
-* Architected SEO-focused AI applications and scalable backend systems
+**Backend** — Node.js, Express, FastAPI, Flask, Django, GraphQL, Prisma
 
-### 🏢 **Software Engineer (SE)** | *Danfe.ai*
+**Databases** — PostgreSQL, MongoDB
 
-**Nov 2024 – Present** | *Nepal | Remote*
+**AI/ML** — TensorFlow, PyTorch, LangChain, LangGraph, RAG, Vector DBs, Embeddings, LLM Fine-Tuning, Prompt Engineering, n8n
 
-* Leading development of Danfe, an AI-powered financial intelligence platform
-* Designed and implemented AI/ML systems for financial data analysis
-* Built intelligent agents and machine learning pipelines for market insights
+**DevOps & Cloud** — Docker, AWS, Google Cloud, Nginx, Ubuntu Server, Linux
 
-### 🏢 **Software Engineer (SE)** | *Upwork (Freelance)*
-
-**Nov 2023 – Oct 2024** | *Remote*
-
-* Delivered multiple client projects, including leading development for Otto Van Koppen (Spain)
-* Developed responsive web applications using React.js and Next.js
-* Built backend systems with Node.js and Express.js
-* Deployed applications on Ubuntu Nginx servers with CI/CD pipelines
-* Managed VPS infrastructure and mail server setup
-* Collaborated with international clients on custom software solutions
+**Tools** — Git, GitHub
 
 ---
 
-## 🎓 Education
+## Featured Projects
 
-### BSc (Hons) in Software Engineering  
-University of Bedfordshire  
-2026 – Present
+### [Danfe](https://danfe.ai) — AI-Powered Financial Intelligence Platform
+*Lead Engineer · Neelgai Technologies · Nov 2023 – Present*
 
-Currently pursuing a Bachelor of Science with strong emphasis on software architecture, algorithms, data structures, system design, and applied engineering.
+Comprehensive fintech platform combining AI/ML with real-time market data for intelligent investment insights. Features heatmap visualizations, NLP-driven sentiment analysis, portfolio management, and AI trading recommendations.
 
-### Higher Secondary Education – Computer Science
-Dhanusha Science Campus
-
-2023 - 2025
+`React` `Next.js` `Node.js` `TypeScript` `TensorFlow` `PostgreSQL` `AWS` `NLP`
 
 ---
 
-## 📫 Let's Connect!
+### [KaamSathi](https://github.com/MikeySharma/kaamsathi-ai-powered-app) — AI Career Development Platform
+*Personal Project*
 
-I'm always open to discussing new opportunities, collaborations, or just having a chat about technology and AI!
+Career platform with AI-powered resume building, interview prep, skill assessment, and personalized learning paths. Integrated with Google Gemini and Tavily API.
 
-[Portfolio](https://www.mikeysharma.com)  
-[LinkedIn](https://www.linkedin.com/in/mikey-sharma)  
-[Email](mailto:support@mikeysharma.com)  
-[Twitter](https://x.com/Mikey__Sharma)
+`Next.js 15` `TypeScript` `PostgreSQL` `TypeORM` `Google Gemini` `Tavily API` `JWT`
+
 ---
 
-*"Building the future with AI-powered solutions, one line of code at a time."* 🚀
+### [Art of Mithila](https://github.com/MikeySharma/Art-Of-Mithila) — Cultural Heritage Classifier
+*Personal Project*
+
+Deep learning application that classifies traditional Nepali art using a custom-trained VGG16 transfer learning model with high accuracy.
+
+`TensorFlow` `Keras` `VGG16` `Next.js` `Django` `Computer Vision`
+
+---
+
+### [Horizon Banking](https://mikey-banking.vercel.app) — Financial Management Platform
+*Personal Project*
+
+Full-featured banking app with secure transactions, real-time payment processing, and integrations with Plaid and Dwolla APIs.
+
+`Next.js` `TypeScript` `Appwrite` `Plaid` `Dwolla` `Prisma` `PostgreSQL`
+
+---
+
+### [eMithila](https://emithila.netlify.app/) — E-Commerce Platform
+*Personal Project*
+
+End-to-end e-commerce solution with product catalog, cart management, secure auth, order management, and an admin dashboard.
+
+`React.js` `Node.js` `Express` `MongoDB` `Redux` `Stripe`
+
+---
+
+## Experience
+
+**Software Engineer** · Neelgai Technologies / Danfe.ai · *Nov 2024 – Present*
+- Led development of RAG systems and AI-driven data pipelines for content intelligence
+- Architected SEO-focused AI applications and scalable backend infrastructure
+- Designed and implemented AI/ML systems for financial data analysis and market insights
+
+**Software Engineer (Freelance)** · Upwork · *Nov 2023 – Oct 2024*
+- Delivered client projects across Spain and internationally (including lead dev for Otto Van Koppen)
+- Built and deployed full-stack applications on Ubuntu/Nginx with CI/CD pipelines
+- Managed VPS infrastructure and mail server configuration
+
+---
+
+## Education
+
+**BSc (Hons) Software Engineering** · University of Bedfordshire · *2026 – Present*
+
+**Higher Secondary — Computer Science** · Dhanusha Science Campus · *2023 – 2025*
+
+---
+
+*Open to new opportunities, collaborations, and conversations about AI and engineering.*
