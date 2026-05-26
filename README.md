@@ -125,16 +125,6 @@ class MikeySharma:
 
 ---
 
-## Activity Graph
-
-<div align="center">
-
-[![Mikey's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MikeySharma&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/MikeySharma)
-
-</div>
-
----
-
 ## Experience Timeline
 
 ```
