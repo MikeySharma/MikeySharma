@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mikey%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%26%20AI%2FML%20Specialist&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="./header.svg" width="100%" alt="Mikey Sharma — Software Engineer & AI/ML Specialist"/>
 
 </div>
 
@@ -42,7 +42,7 @@ class MikeySharma:
 
 - Architecting **ETL pipelines** for financial data ingestion, transformation, and delivery at scale
 - Engineering **RAG systems** and AI-driven data pipelines for large-scale content intelligence and search
-- Leading **frontend & backend** development — real-time market data, heatmap visualizations, AI trading recommendation interfaces
+- Leading **frontend and backend** development — real-time market data, heatmap visualizations, AI trading recommendation interfaces
 - Designing scalable backend infrastructure and SEO-focused AI applications
 
 ---
@@ -87,7 +87,7 @@ class MikeySharma:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-### DevOps & Cloud
+### DevOps and Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -158,6 +158,6 @@ class MikeySharma:
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mikeysharma.com)
 [![Hire Me](https://img.shields.io/badge/Available%20for%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:support@mikeysharma.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%" alt="footer"/>
 
 </div>
