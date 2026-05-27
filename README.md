@@ -2,10 +2,6 @@
 
 <img src="./header.svg" width="100%" alt="Mikey Sharma — Software Engineer & AI/ML Specialist" />
 
-# Mikey Sharma
-
-### Software Engineer • Data Infrastructure • AI Systems • SEO Architecture
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-mikeysharma.com-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mikeysharma.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mikey--sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikey-sharma)
 [![Twitter](https://img.shields.io/badge/Twitter-Mikey__Sharma-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mikey__Sharma)
